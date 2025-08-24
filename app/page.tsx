@@ -17,8 +17,8 @@ export default function Home() {
     "https://res.cloudinary.com/deenuejys/image/upload/v1756061857/1_ool2cy.jpg?w=400&h=600&fit=crop",
     "https://res.cloudinary.com/deenuejys/image/upload/v1756061968/2_e911aa.jpg?w=400&h=600&fit=crop",
     "https://res.cloudinary.com/deenuejys/image/upload/v1756061859/3_vxjqtw.jpg?w=400&h=600&fit=crop",
-    "https://res.cloudinary.com/deenuejys/image/upload/v1756061856/4_nulpj0.jpgw=400&h=600&fit=crop&sat=-100",
-    "https://res.cloudinary.com/deenuejys/image/upload/v1756061859/5_ajk5ar.jpg?w=400&h=600&fit=crop&sat=-100"
+    "https://res.cloudinary.com/deenuejys/image/upload/v1756061856/4_nulpj0.jpg?w=400&h=600&fit=crop",
+    "https://res.cloudinary.com/deenuejys/image/upload/v1756061859/5_ajk5ar.jpg?w=400&h=600&fit=crop"
   ]
 
   // Create enough images to always have content visible
