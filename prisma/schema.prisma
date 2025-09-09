@@ -14,3 +14,12 @@ model Contact {
   message   String
   createdAt DateTime @default(now())
 }
+
+model User {
+  id          String    @id @default(cuid())
+  name        String
+  email       String    @unique
+  password    String    // hashed
+  createdAt   DateTime  @default(now())
+  refreshToken String?  // To persist sessions
+}
